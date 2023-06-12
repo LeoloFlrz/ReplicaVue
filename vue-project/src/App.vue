@@ -35,7 +35,7 @@ import PinkButton from './components/PinkButton.vue'
             <p>Start focusing on your goals and get more things done with Sync mobile application. It's the first app to harness the power of social connections to help you stay focused and get organized
             </p>
             <div class="button_ribbon_download_app">
-              <PinkButton></PinkButton>
+              <PinkButton />
                 <!--<a href="#"><img src="./assets/Images/apple.png" alt="logo Apple">DOWNLOAD</a>-->
                 <a href="#"><img src="./assets/Images/playstore.png" alt="logo Google Play">DOWNLOAD</a>
             </div>

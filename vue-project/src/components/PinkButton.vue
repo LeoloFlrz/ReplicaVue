@@ -5,11 +5,11 @@
 
 <template>
 
-<a href="#"><img src="./assets/Images/apple.png" alt="logo Apple">DOWNLOAD</a>
+<a href="#"><img src="./../assets/Images/apple.png" alt="logo Apple">DOWNLOAD</a>
 
 </template>
 
-<style scoped lang="scss">
+<style lang="scss" scoped>
 $background_color_3: #FF566E;
 
 a{
@@ -35,7 +35,7 @@ a:link{
     padding: 5px 3vw;
     margin-right:2vw;
     margin-left:0;
-    background: blue;
+    background: $background_color_3;
     color: aqua;
 }
 
